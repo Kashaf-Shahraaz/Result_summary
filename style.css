@@ -19,6 +19,8 @@ body{
 }
 .result{
     height: 50%;
-    background: hsl(252, 100%, 67%);
-    z-index: 1;
+    width: 100% ;
+    background: rgb(253,252,255);
+    background: linear-gradient(177deg, rgba(253,252,255,1) 0%, rgba(103,67,253,1) 6%, rgba(54,50,180,1) 100%);
+
 }
