@@ -31,5 +31,12 @@ body{
     text-align: center;
 }
 .circle{
-    background: linear-gradient();
+    display: inline-block;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(hsla(256, 72%, 46%, 1),  hsla(241, 72%, 46%, 0));
+    height: 150px;
+    width: 150px;
+    border-radius: 100px;
+    text-align: center;
 }
