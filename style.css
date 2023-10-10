@@ -23,5 +23,7 @@ body{
     background: rgb(103,67,253);
     background: linear-gradient(177deg, rgba(103,67,253,1) 0%, rgba(106,86,145,1) 0%, rgba(54,50,180,1) 100%);
     border-radius: 20px;
-
+} 
+.result h4{
+    
 }
