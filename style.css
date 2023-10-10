@@ -20,7 +20,7 @@ body{
 .result{
     height: 50%;
     width: 100% ;
-    background: rgb(253,252,255);
-    background: linear-gradient(177deg, rgba(253,252,255,1) 0%, rgba(103,67,253,1) 6%, rgba(54,50,180,1) 100%);
+    background: rgb(103,67,253);
+    background: linear-gradient(177deg, rgba(103,67,253,1) 0%, rgba(106,86,145,1) 0%, rgba(54,50,180,1) 100%);
 
 }
