@@ -7,34 +7,29 @@ body{
     height: 100vh;
     width: 100vw;
     background-color: aquamarine;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
 }
 .main{
     height: 100%;
-    width: 80%;
+    width: 100%;
     padding: 16px;
     background-color:  hsl(0, 0%, 100%);
-    display: flex;
-    justify-content: center;
-    
-   
 }
 .result{
     height: 50%;
-    width: 100% ;
+    width: 80% ;
     background: rgb(103,67,253);
     background: linear-gradient(177deg, rgba(103,67,253,1) 0%, rgba(106,86,145,1) 0%, rgba(54,50,180,1) 100%);
     border-radius: 20px;
     padding: 20px;
-    /* display: inline-block; */
 } 
 .result h4{
     color: hsl(241, 100%, 89%);
     text-align: center;
 }
 .circle{
-    display: inline-block;
-    justify-content: center;
-    align-items: center;
     background: linear-gradient(hsla(256, 72%, 46%, 1),  hsla(241, 72%, 46%, 0));
     height: 150px;
     width: 150px;
@@ -42,5 +37,8 @@ body{
     text-align: center;
 }
 .summary{
-    
+    height: 50%;
+    width: 80%;
+    background-color: peachpuff;
+   
 }
