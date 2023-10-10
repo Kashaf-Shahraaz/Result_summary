@@ -9,5 +9,7 @@ body{
     background-color: aquamarine;
 }
 .main{
-    
+    height: 80%;
+    width: 60%;
+    background-color:  hsl(0, 0%, 100%);
 }
